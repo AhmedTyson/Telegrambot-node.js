@@ -1,0 +1,36 @@
+{
+  "name": "telegram-gdrive-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot that downloads and sends files from Google Drive links",
+  "main": "src/bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/bot.js",
+    "dev": "nodemon src/bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "google-drive",
+    "file-download",
+    "telegraf"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "dotenv": "^16.4.5",
+    "winston": "^3.13.0",
+    "file-type": "^19.0.0",
+    "mime": "^4.0.3",
+    "axios": "^1.7.2",
+    "fs-extra": "^11.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
