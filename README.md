@@ -1,14 +1,19 @@
-# Telegrambot — Node.js
+# <img src="https://api.iconify.design/lucide:bot.svg?color=%238A2BE2" width="32" height="32" align="center" /> Telegrambot — Node.js
 
-> A Telegram bot integrated with Google Drive for automated cloud file management — upload, retrieve, and organize files directly from your chat.
+> **Telegram bot integrated with Google Drive for automated cloud file management.**
+> Upload, retrieve, and organize files directly from your chat using Node.js and OAuth 2.0.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google_Drive-API-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+<div align="center">
+
+| Project Status | Stack                                                                                                    | Integration                                                                                                       | Auth        |
+| :------------- | :------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------- | :---------- |
+| `PRODUCTION`   | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Drive](https://img.shields.io/badge/Google_Drive-API-4285F4?style=flat-square&logo=googledrive&logoColor=white) | `OAuth 2.0` |
+
+</div>
 
 ---
 
-## 📋 Table of Contents
+## <img src="https://api.iconify.design/lucide:list.svg?color=%238A2BE2" width="20" height="20" align="center" /> Table of Contents
 
 - [Overview](#overview)
 - [Features](#-features)
@@ -28,7 +33,9 @@ The bot uses the **Telegram Bot API** for interaction and the **Google Drive API
 
 ---
 
-## ✨ Features
+---
+
+## <img src="https://api.iconify.design/lucide:sparkles.svg?color=%238A2BE2" width="20" height="20" align="center" /> Features
 
 | Feature            | Description                                                                    |
 | ------------------ | ------------------------------------------------------------------------------ |
@@ -40,7 +47,9 @@ The bot uses the **Telegram Bot API** for interaction and the **Google Drive API
 
 ---
 
-## 💻 Tech Stack
+---
+
+## <img src="https://api.iconify.design/lucide:cpu.svg?color=%238A2BE2" width="20" height="20" align="center" /> Tech Stack
 
 | Layer         | Technology                                     |
 | ------------- | ---------------------------------------------- |
@@ -53,7 +62,9 @@ The bot uses the **Telegram Bot API** for interaction and the **Google Drive API
 
 ---
 
-## 🏗️ Architecture
+---
+
+## <img src="https://api.iconify.design/lucide:git-pull-request.svg?color=%238A2BE2" width="20" height="20" align="center" /> Architecture
 
 ```
 User (Telegram)
@@ -69,7 +80,9 @@ Google Drive (Cloud Storage)
 
 ---
 
-## 📁 Project Structure
+---
+
+## <img src="https://api.iconify.design/lucide:folder-tree.svg?color=%238A2BE2" width="20" height="20" align="center" /> Project Structure
 
 ```
 Telegrambot-node.js/
@@ -86,7 +99,9 @@ Telegrambot-node.js/
 
 ---
 
-## 🚀 Getting Started
+---
+
+## <img src="https://api.iconify.design/lucide:rocket.svg?color=%238A2BE2" width="20" height="20" align="center" /> Getting Started
 
 ### Prerequisites
 
@@ -125,7 +140,9 @@ The bot is now listening for messages. Open Telegram and start chatting with it.
 
 ---
 
-## 🤖 Bot Commands
+---
+
+## <img src="https://api.iconify.design/lucide:message-square.svg?color=%238A2BE2" width="20" height="20" align="center" /> Bot Commands
 
 | Command           | Description                                     |
 | ----------------- | ----------------------------------------------- |
